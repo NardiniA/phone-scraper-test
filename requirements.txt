@@ -1,0 +1,8 @@
+lxml
+bs4
+requests
+tqdm
+tabulate
+inquirer
+win10toast
+uk-postcode-utils
