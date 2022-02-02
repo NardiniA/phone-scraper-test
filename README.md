@@ -20,13 +20,13 @@ Install Virtualenv.
 $ python -m pip install --user virtualenv
 ```
 
-Start a virtualenv.
+Create a virtualenv.
 
 ```
 $ python -m virtualenv venv
 ```
 
-Enable virtualenv.
+Start virtualenv using batch file.
 
 ```
 $ venv\Scripts\activate
@@ -44,6 +44,12 @@ Run app.py
 $ python app.py
 ```
 
+To deactivate virtual environment.
+
+```
+$ venv\Scripts\deactivate
+```
+
 ### MacOS
 
 ```
@@ -58,7 +64,7 @@ Install Virtualenv.
 $ pip3 install virtualenv
 ```
 
-Start a virtualenv.
+Create a virtualenv.
 
 ```
 $ virtualenv venv
@@ -70,7 +76,7 @@ Or
 $ virtualenv -p python3 venv
 ```
 
-Enable virtualenv.
+Start virtualenv using batch file.
 
 ```
 $ source venv\bin\activate
@@ -82,10 +88,16 @@ Install dependencies.
 $ pip3 install -r requirements.txt
 ```
 
-Run app.py
+Run app.py.
 
 ```
 $ python3 app.py
+```
+
+To deactivate virtual environment.
+
+```
+$ deactivate
 ```
 
 ## For the cool kids, like Wilfred.
