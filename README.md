@@ -106,7 +106,7 @@ to turn it back to white.
 
 ## Cross Platform
 
-This project is written in python and should run fine in cross platform environments. However, problems may arise on MacOS and Linux as this was developed on a Windows 10 operating system. For problems that arise contact the developer, Antonio Nardini or add to the issues tab on [https://github.com/NardiniA/phone-scraper-test/issues](this repository).
+This project is written in python and should run fine in cross platform environments. However, problems may arise on MacOS and Linux as this was developed on a Windows 10 operating system. For problems that arise contact the developer, Antonio Nardini or add to the issues tab on [this repository](https://github.com/NardiniA/phone-scraper-test/issues).
 
 ## Disclaimer
 
