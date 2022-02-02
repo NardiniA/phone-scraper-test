@@ -4,7 +4,7 @@ This software runs in Python and is only used as a testing program for web scrap
 
 ## Usage
 
-Make sure Python and pip are installed. (This was developed and the following guide is done on Windows. Please check the steps for MacOS and Linux)
+Make sure Python and pip are installed. (This was developed and the following guide is done on Windows. Please check the steps for [MacOS](#macos) and Linux)
 
 ### Windows
 
