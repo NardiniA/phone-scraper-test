@@ -120,6 +120,10 @@ to turn it back to white.
 
 This project is written in python and should run fine in cross platform environments. However, problems may arise on MacOS and Linux as this was developed on a Windows 10 operating system. For problems that arise contact the developer, Antonio Nardini or add to the issues tab on [this repository](https://github.com/NardiniA/phone-scraper-test/issues).
 
+## Bug Fixes
+
+Some may experience where they cannot select an option, when asking which search format youwould like. To move between them, use the arrows or the numpad arrows (ensure numlock is on).
+
 ## Disclaimer
 
 This software is only a test and should only be used in accordance with the laws of your land and the terms of BT Phone Book website. As of 02.02.2022, it is lawful to use this software. However, the data provided by this software requires to be in accordance with any GDPR or any other Personal Data laws.
