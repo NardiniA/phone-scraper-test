@@ -6,6 +6,14 @@ This software runs in Python and is only used as a testing program for web scrap
 
 Make sure Python and pip are installed. (This was developed and the following guide is done on Windows. Please check the steps for [MacOS](#macos) and Linux)
 
+Clone the repository into a folder/directory of your choice.
+
+```
+$ git clone https://github.com/NardiniA/phone-scraper-test <new_name> 
+```
+
+(new_name is an optional parameter)
+
 ### Windows
 
 ```
